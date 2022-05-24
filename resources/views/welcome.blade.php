@@ -510,7 +510,7 @@
                         </svg>
 
                         <a href="https://github.com/sponsors/taylorotwell" class="ml-1 underline">
-                            DigitalSail - v3.0
+                            DigitalSail - v4.0
                         </a>
                     </div>
                 </div>
